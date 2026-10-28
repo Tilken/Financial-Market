@@ -1,0 +1,6 @@
+anthropic>=2.3.0
+requests
+beautifulsoup4
+pydantic>=2
+# opcional, só para --renderizar (páginas montadas em JavaScript):
+# playwright
